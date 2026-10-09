@@ -1,48 +1,35 @@
 
-<div align="center">
-
 # Hi, I'm Fabricio Alan 👋
 
-### IT Student | Web Development | Data Analytics
+**Information Technology Undergraduate | Software Development & Data Analytics**
 
-Information Technology student at the Federal University of Mato Grosso do Sul (UFMS), Brazil.
+I'm an Information Technology undergraduate at the Federal University of Mato Grosso do Sul (UFMS), Brazil.
 
-Interested in software development, data analytics, and building practical technology solutions.
-
-</div>
-
----
+My interests include software development, process automation, and data analytics, with a focus on developing practical and reliable technology solutions.
 
 ## About Me
 
-- 🎓 Studying Information Technology at UFMS.
-- Working with Material Master Data and Standardization.
-- Interested in software development, automation, and data analytics.
-- Expanding my technical skills through academic and personal projects.
-- Based in Brazil.
+I currently work with **Material Master Data and Standardization**, where accuracy, data consistency, and process organization are essential.
 
----
+Alongside my professional experience, I'm expanding my technical knowledge through academic projects and independent learning.
 
 ## Technologies & Tools
 
-<div align="center">
+**Programming & Web Development**
 
-### Languages & Technologies
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-24292F?style=flat-square&logo=html5&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Data Analytics & Business Intelligence**
 
-### Tools & Platforms
+![DAX](https://img.shields.io/badge/DAX-24292F?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-24292F?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-24292F?style=flat-square)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**Development Platforms**
 
-</div>
-
----
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
 
 ## Featured Project
 
@@ -54,10 +41,4 @@ An academic project focused on helping people find information about responsible
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioalan-ufms&show_icons=true&theme=github_dark&hide_border=true)
-
-</div>
+*Continuously learning, improving, and exploring new technologies.*
