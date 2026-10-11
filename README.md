@@ -1,5 +1,5 @@
 
-# Hi, I'm Fabricio Alan 👋
+## Fabricio Alan
 
 **Information Technology Undergraduate | Software Development & Data Analytics**
 
